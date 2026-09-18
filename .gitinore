@@ -1,0 +1,7 @@
+dataset/
+*.5
+*.pt
+*.pkl
+_pycache_/
+venv/
+.env/

@@ -1,0 +1,8 @@
+brain-tumor-mri-database/
+dataset/
+model/*.h5
+*.pt
+*.pkl
+_pycache_/
+venv/
+.env
